@@ -1,0 +1,48 @@
+[
+    { "local_id":"local_1",
+      "titulo": "Sede Carabayllo",
+      "parrafo": "¡Acercate a nuestra sede en Carabayllo! En PetVida, nos enorgullece brindar atención veterinaria de calidad en esta ubicación. Nuestro equipo de profesionales altamente calificados está listo para cuidar de tus mascotas y ofrecerles el mejor servicio.",
+      "ubicacion": "https://www.google.com/maps/dir//XXM2%2B28Q+Facultad+de+Ingenier%C3%ADa+El%C3%A9ctrica+y+Electr%C3%B3nica+-+UNI,+R%C3%ADmac+15333/@-12.0173624,-77.0515266,18z/data=!4m8!4m7!1m0!1m5!1m1!1s0x9105cf18e9455ba1:0x52804b105272bcec!2m2!1d-77.049124!2d-12.0175731?entry=ttu",
+      "telefono": 912307321,
+      "horario_1": "Lunes a Sabado : 8 am  a 10pm",
+      "horario_2" :"Domingo y feriado: 9 am  a 5 pm ",
+      "whatsapp":"https://api.whatsapp.com/send?phone=953178818&text=Hola%20vengo%20de%20la%20pagina%20de%20PetVida-Carabayllo",
+      "whastapp_img":"https://cdn.icon-icons.com/icons2/3685/PNG/512/whatsapp_logo_icon_229310.png",
+      "img_link":"https://i.ibb.co/kKJQH0s/centro-de-atencion-animal-en-denia-634x361-1.jpg"
+    },
+    { "local_id":"local_2",
+      "titulo": "Sede San Juan de Lurigancho",
+      "parrafo": "¡Visita nuestra sede en Carabayllo! En PetVida, nos enorgullece brindar atención veterinaria de calidad en esta ubicación. Nuestro equipo de profesionales altamente calificados está listo para cuidar de tus mascotas y ofrecerles el mejor servicio.",
+      "ubicacion": "https://www.google.com/maps/place/Facultad+de+Ingenier%C3%ADa+Electr%C3%B3nica+y+El%C3%A9ctrica+-+UNMSM/@-11.9660321,-77.1366259,12z/data=!4m20!1m13!4m12!1m4!2m2!1d-77.0219014!2d-11.8726542!4e1!1m6!1m2!1s0x9105c9458fdb28ff:0xc1b33f85feea9ab3!2ssan+marcos+electronica+ubicacion!2m2!1d-77.0870981!2d-12.0552561!3m5!1s0x9105c9458fdb28ff:0xc1b33f85feea9ab3!8m2!3d-12.0552561!4d-77.0870981!16s%2Fg%2F11b6tpxh9n?entry=ttu",
+      "telefono": 912345674,
+      "horario_1": ["Lunes a Sabado : 8 am  a 10pm"],
+      "horario_2" :["Domingo y feriado: 9 am  a 5 pm "],
+      "whatsapp":"https://api.whatsapp.com/send?phone=983079850&text=Hola%20vengo%20de%20la%20pagina%20de%20PetVida-San%20Juan%20de%20Lurigancho",
+      "whastapp_img":"https://cdn.icon-icons.com/icons2/3685/PNG/512/whatsapp_logo_icon_229310.png",
+      "img_link":"https://i.ibb.co/YQHVpsN/local-1-1.jpg"
+    },
+    {
+      "local_id":"local_3",
+      "titulo": "Sede Villa el Salvador",
+      "parrafo": "¡Conoce nuestra sede en Villa el salvador! En PetVida, nos enorgullece brindar atención veterinaria de calidad en esta ubicación. Nuestro equipo de profesionales altamente calificados está listo para cuidar de tus mascotas y ofrecerles el mejor servicio.",
+      "ubicacion": "https://www.google.com/maps/place/Pontificia+Universidad+Cat%C3%B3lica+del+Per%C3%BA+(PUCP)/@-12.0629219,-77.0988676,14z/data=!4m19!1m12!4m11!1m3!2m2!1d-77.0783112!2d-12.0609914!1m6!1m2!1s0x9105c912d40840a5:0xd7a0bfb797e5862e!2sAv.+Universitaria+1801,+San+Miguel+15088!2m2!1d-77.0781351!2d-12.0687255!3m5!1s0x9105c912d40840a5:0xd7a0bfb797e5862e!8m2!3d-12.0687255!4d-77.0781351!16zL20vMDY3cDVo?entry=ttu",
+      "telefono": 912345677,
+      "horario_1": ["Lunes a Sabado : 8 am  a 10pm"],
+      "horario_2" :["Domingo y feriado: 9 am  a 5 pm "],
+      "whatsapp":"https://api.whatsapp.com/send?phone=912307321&text=Hola%20vengo%20de%20la%20pagina%20de%20PetVida-Villa%20el%20Salvador",
+      "whastapp_img":"https://cdn.icon-icons.com/icons2/3685/PNG/512/whatsapp_logo_icon_229310.png",
+      "img_link":"https://i.ibb.co/B3zPR0S/ae195260-8a67-47d2-ba66-1ba82cccbab7-jpg.jpg"
+    },
+    {
+      "local_id":"local_4",
+      "titulo": "Sede Los Olivos",
+      "parrafo": "¡Conoce nuestra sede en los Olivos! En PetVida, nos enorgullece brindar atención veterinaria de calidad en esta ubicación. Nuestro equipo de profesionales altamente calificados está listo para cuidar de tus mascotas y ofrecerles el mejor servicio.",
+      "ubicacion": "https://www.google.com/maps/place/UNFV+Facultad+De+Ingenier%C3%ADa+Electr%C3%B3nica+e+Inform%C3%A1tica+-+Anexo+8/@-11.9014018,-77.0641182,11z/data=!4m20!1m13!4m12!1m4!2m2!1d-77.0219014!2d-11.8726542!4e1!1m6!1m2!1s0x9105c8cff13d4e3f:0x97427793910d7b1a!2sfiei+unfv+ubicacion!2m2!1d-77.0439246!2d-12.0522233!3m5!1s0x9105c8cff13d4e3f:0x97427793910d7b1a!8m2!3d-12.0522233!4d-77.0439246!16s%2Fg%2F1td01k6g?entry=ttu",
+      "telefono": 912345672,
+      "horario_1": ["lu a sa : 8 am  a 10pm"],
+      "horario_2" :["Domingo y feriado: 9 am  a 5 pm "],
+      "whatsapp":"https://api.whatsapp.com/send?phone=931036001&text=Hola%20vengo%20de%20la%20pagina%20de%20PetVida-Los%20Olivos",
+      "whastapp_img":"https://cdn.icon-icons.com/icons2/3685/PNG/512/whatsapp_logo_icon_229310.png",
+      "img_link":"https://i.ibb.co/KG55CsF/local-41.jpg"
+    }
+  ]
