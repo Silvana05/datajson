@@ -44,6 +44,18 @@
       "whatsapp":"https://api.whatsapp.com/send?phone=931036001&text=Hola%20vengo%20de%20la%20pagina%20de%20PetVida-Los%20Olivos",
       "whastapp_img":"https://cdn.icon-icons.com/icons2/3685/PNG/512/whatsapp_logo_icon_229310.png",
       "img_link":"https://i.ibb.co/KG55CsF/local-41.jpg"
+    },
+    {
+      "local_id":"local_5",
+      "titulo": "Sede PROXIMAMENTE",
+      "parrafo": "¡Conoce nuestra sede en ...! En PetVida, nos enorgullece brindar atención veterinaria de calidad en esta ubicación. Nuestro equipo de profesionales altamente calificados está listo para cuidar de tus mascotas y ofrecerles el mejor servicio.",
+      "ubicacion": "https://www.google.com/maps/place/UNFV+Facultad+De+Ingenier%C3%ADa+Electr%C3%B3nica+e+Inform%C3%A1tica+-+Anexo+8/@-11.9014018,-77.0641182,11z/data=!4m20!1m13!4m12!1m4!2m2!1d-77.0219014!2d-11.8726542!4e1!1m6!1m2!1s0x9105c8cff13d4e3f:0x97427793910d7b1a!2sfiei+unfv+ubicacion!2m2!1d-77.0439246!2d-12.0522233!3m5!1s0x9105c8cff13d4e3f:0x97427793910d7b1a!8m2!3d-12.0522233!4d-77.0439246!16s%2Fg%2F1td01k6g?entry=ttu",
+      "telefono": 912345673,
+      "horario_1": ["lu a sa : 8 am  a 10pm"],
+      "horario_2" :["Domingo y feriado: 9 am  a 5 pm "],
+      "whatsapp":"https://api.whatsapp.com/send?phone=931036001&text=Hola%20vengo%20de%20la%20pagina%20de%20PetVida-Los%20Olivos",
+      "whastapp_img":"https://cdn.icon-icons.com/icons2/3685/PNG/512/whatsapp_logo_icon_229310.png",
+      "img_link":"https://i.ibb.co/KG55CsF/local-41.jpg"
     }
     
   ]
